@@ -2,7 +2,7 @@ Name: Selim Waly |
 Social Media: 
 Twitter: @SelimWaly |
 Discord: Fallen#5443 |
-About: I'm a developer and ex-Microsoft Employee |
+About: I'm a software developer|
 Latest Website: https://selimwaly.github.io/NasaAPI |
 Some Websites Found At: https://selimwaly.github.io |
 Hobbys: Sports, Programming and Gaming |
